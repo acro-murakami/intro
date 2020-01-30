@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css"> 
   </head>
   <body>
-   <h1>プログラミングPHP</h1>
+   <h1>プログラミングPHP復習</h1>
     <front class = front></front>
     <left_line class = "left"></left_line>
     <right_line class = "right"></right_line?>
